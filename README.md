@@ -1,5 +1,7 @@
 Knowledge engineer at De Nederlandsche Bank
-[Link text](linkurl)
-* [Github](https://github.com/wjwillemse)
-* [Blog](https://mangosaurus.eu)
+
+* [Github repos](https://github.com/wjwillemse)
+
+* [Blog on mangosaurus.eu](https://mangosaurus.eu)
+
 * [LinkedIn](https://www.linkedin.com/in/willem-jan-willemse-3626a0/)
