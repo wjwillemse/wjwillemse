@@ -5,4 +5,3 @@ Knowledge engineer at De Nederlandsche Bank
 * [LinkedIn](https://www.linkedin.com/in/willem-jan-willemse-3626a0/)
 
 * [Blog site](https://mangosaurus.nl)
-* 
